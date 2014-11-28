@@ -1,0 +1,17 @@
+{
+  "name": "whiteboard",
+  "main": "whiteboard.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/SuperSimen/whiteboard-angular-module",
+  "authors": [
+    "Simen Owesen-Lein <simen.owesenlein@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
